@@ -30,8 +30,8 @@
 
 原始图：
 
-![https://github.com/zouhuigang/font_width_height/raw/master/example/test.png](https://github.com/zouhuigang/kubernetes/raw/master/example/test.png)
+![https://github.com/zouhuigang/font_width_height/raw/master/example/test.png](https://github.com/zouhuigang/font_width_height/raw/master/example/test.png)
 
 效果图:
 
-![https://github.com/zouhuigang/font_width_height/raw/master/example/out.jpg](https://github.com/zouhuigang/kubernetes/raw/master/example/out.jpg)
+![https://github.com/zouhuigang/font_width_height/raw/master/example/out.jpg](https://github.com/zouhuigang/font_width_height/raw/master/example/out.jpg)
